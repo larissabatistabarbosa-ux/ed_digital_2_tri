@@ -12,4 +12,13 @@ align-items: center;
  button{
     background-color: rgb(15, 218, 218);
     color: white;
+    font-family: "bai jamjuree", sans-serif;
+ }
+
+ .passo{
+   display: none;
+ }
+
+ .passo.ativo {
+   display: block;
  }
